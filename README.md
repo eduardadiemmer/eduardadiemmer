@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @eduardadiemmer
+- 👀 I’m interested in graphic design, arts & now a little bit in coding!
+- 🌱 I’m currently learning Python.
+- 📫 You can reach me by email: eduardadiemmer@gmail.com
